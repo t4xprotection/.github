@@ -109,9 +109,9 @@ Unlike traditional obfuscators that rely on source code rewriting or complex bui
 
 | Tier | Deployment Scope | Turnaround SLA | Pricing Model |
 | :--- | :--- | :--- | :--- |
-| **Single APK / AAB** | 1 Unique Release Binary | Within 24 Hours | $19 (One-Time) |
-| **All Versions** | Unlimited Builds (1 Application / 1 Year) | Fast-Track (< 12 Hours) | $49 (Annual) |
-| **Enterprise Portfolio** | Multi-App Portfolio + Continuous Pipeline | Priority (< 4 Hours) | $299 (Tailored) |
+| **Single APK / AAB** | 1 Unique Release Binary | Within 12 hours (Avg. ~1–2h) | $19 (One-Time) |
+| **All Versions** | Unlimited Builds (1 Application / 1 Year) | Fast-track (< 4 hours) | $49 (Annual) |
+| **Enterprise Portfolio** | Multi-App Portfolio + Continuous Pipeline | Instant VIP (< 1 hour) | $299 (Tailored) |
 
 All packages include complete access to the native shielding core, dynamic RASP engine, and signing verification modules.
 
